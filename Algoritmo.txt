@@ -1,0 +1,16 @@
+alogoritmo 1 
+1. ler a 1ª nota //scannear e falar pro usuario burro digitar 
+2. ler a 2ª nota 
+//( mandar mensagem p/usuario e ler o que o usuario digitar)
+3. calcular a media das notas 
+4. mostrar a media calculada  
+6. Digite o total de aulas 
+7. Digite o numero total de faltas do aluno 
+8. Calcular a % de frequencia 
+9. Mostrar a porcentagem de frequencia 
+10. se media for >=50 e frequencia >= 75% entaoo aluno aprovado se não entao aluno reprovado 
+se (media>=50 e frequencia>=75%){ 
+    entao aluno aprovado
+}senao { 
+    aluno reprovado
+}
